@@ -15,4 +15,5 @@ Soc estudiant de segón del cicle superior de DAM a l'ínsitut Nicolau Copèrnic
 <img src="./imgIcons/astudio.png" alt="Xml" width="45" height="50">,
 <img src="./imgIcons/firebase.png" alt="Xml" width="30" height="50">,
 <img src="./imgIcons/kotlin.png" alt="Xml" width="45" height="50">,
-<img src="./imgIcons/mysql.png" alt="Xml" width="45" height="50">
+<img src="./imgIcons/mysql.png" alt="Xml" width="45" height="50">,
+<img src="./imgIcons/unity.png" alt="Xml" width="50" height="50">
