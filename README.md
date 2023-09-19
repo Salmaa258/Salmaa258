@@ -1,6 +1,6 @@
 ### Hola 👋
 
-Soc estudiant de segón del cicle superior de DAM a l'ínsitut Nicolau Copèrnic.
+Soc estudiant de segón del cicle superior de DAW a l'insitut Nicolau Copèrnic.
 
 ### Com contactar-me: 
 - [Gmail](salmapicazo9@gmail.com)
